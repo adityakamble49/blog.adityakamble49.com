@@ -1,9 +1,9 @@
 # Site
-name: "adityakamble49.com"
-description: "Personal Portfolio, Tech Stack, Projects etc."
+name: "blog.adityakamble49.com"
+description: "My Thought's on Tech."
 favicon: 'favicon.png'
 logo: 'assets/images/logo.png'
-repository: adityakamble49/adityakamble49.com
+repository: adityakamble49/blog.adityakamble49.com
 google_analytics: 'UA-115051319-1'
 disqus: 'adityakamble49'
 blog_heading: Aditya Kamble's Blog
