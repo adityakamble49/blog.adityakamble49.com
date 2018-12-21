@@ -1,0 +1,44 @@
+# Site
+name: "adityakamble49.com"
+description: "Personal Portfolio, Tech Stack, Projects etc."
+favicon: 'favicon.png'
+logo: 'assets/images/logo.png'
+repository: adityakamble49/adityakamble49.com
+google_analytics: 'UA-115051319-1'
+disqus: 'adityakamble49'
+blog_heading: Aditya Kamble's Blog
+blog_subheading: My Thoughts on Tech
+permalink: /:categories/:title
+
+# Authors
+authors:
+  adityakamble49:
+    name: Aditya Kamble
+    display_name: adityakamble49
+    gravatar: 28200510ae4d7bfe061866a947b75cfa
+    email: adityakamble49@gmail.com
+    web: https://adityakamble49.com
+    twitter: https://twitter.com/adityakamble49
+    description: "Google Certified Android Developer, Web Developer, Machine Learning Enthusiastic."
+
+# Plugins
+plugins: 
+  - jekyll-paginate
+  - jekyll-archives
+  - jekyll-gist
+    
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    
+# Pagination 
+paginate: 6
+paginate_path: /page:num/
+    
+# Other
+markdown: kramdown
+highlighter: rouge
