@@ -1,6 +1,9 @@
 # adityakamble49.com </> Blog :fire:
 My Thoughts on Tech. :sunglasses:
 
+
+[![Build Status](https://travis-ci.org/adityakamble49/blog.adityakamble49.com.svg?branch=gh-pages)](https://travis-ci.org/adityakamble49/blog.adityakamble49.com)
+
 ## Development
 
 Make sure you have correct version of ruby installed.
